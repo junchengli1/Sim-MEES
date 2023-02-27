@@ -8,7 +8,20 @@ mass_dic - object mass dictionary.
 difficulty_dic - object difficulty level dictionary.
 
 
-Stage_0: 
+/Stage_0: 
+
+/depth - 800 frames depth images
+
+/bbox_3d - 800 frames 3d bounding box 
+
+/bbox_2d_tight - 800 frames 2d bounding box 
+
+/instance - 800 frames segmentation mask 
+
+/rgb - 800 frames RGB image 
+
+/camera_info - Camera matrix
+
 0.npz - point clouds, surface normals, and segmentation ID for each point.
 
 /.*pcd - point cloud of each objects in the cluttered enviroments.
