@@ -28,7 +28,7 @@ difficulty_dic - object difficulty level dictionary.
 
 stage_0.usd - cluttered environments usd file.
 
-(1.5 cm suction cup gripper) stage_0_candidates_after_seal.pkl -  
+(1.5 cm suction cup gripper) stage_0_candidates_after_seal.pkl 
 ```
 ["segmentation_id"]
 ["object_name"]
@@ -54,7 +54,7 @@ stage_0.usd - cluttered environments usd file.
 ```
 
 
-(2.5 cm suction cup gripper) stage_0_candidates_after_seal_2.5cm.pkl -  
+(2.5 cm suction cup gripper) stage_0_candidates_after_seal_2.5cm.pkl  
 ```
 ["segmentation_id"]
 ["object_name"]
