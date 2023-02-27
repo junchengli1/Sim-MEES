@@ -10,15 +10,15 @@ difficulty_dic - object difficulty level dictionary.
 
 /Stage_0: 
 
-/depth - 800 frames depth images
+/depth - (800 frames) depth images
 
-/bbox_3d - 800 frames 3d bounding box 
+/bbox_3d - (800 frames) 3d bounding box 
 
-/bbox_2d_tight - 800 frames 2d bounding box 
+/bbox_2d_tight - (800 frames) 2d bounding box 
 
-/instance - 800 frames segmentation mask 
+/instance - (800 frames) segmentation mask 
 
-/rgb - 800 frames RGB image 
+/rgb - (800 frames) RGB image 
 
 /camera_info - Camera matrix
 
