@@ -90,6 +90,12 @@ stage_0.usd - cluttered environments usd file.
 ["total_candidates_pass_overlap"] 
 
 ```
-
+(Fetch) stage_0_grasp_simulation_candidates.pkl
+```
+["rotation_after_exp_success"]
+["translation_after_exp_success"]
+["rotation_after_exp_fail"]
+["translation__after_exp_fail"]
+```
 
 
