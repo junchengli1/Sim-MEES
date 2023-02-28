@@ -1,5 +1,5 @@
 # Sim-MEES: Modular End-Effector System Grasping Dataset for Mobile Manipulators in Cluttered Environments
-This is the sample dataset part for our paper: [Sim-MEES](https://drive.google.com/drive/folders/1CsWiaqe5LZzFyYPZLGWx-tOw7704hXul?usp=share_link)
+## This is the sample dataset part for our paper: [Sim-MEES](https://drive.google.com/drive/folders/1CsWiaqe5LZzFyYPZLGWx-tOw7704hXul?usp=share_link)
 
 seg_dic - object segmentation dictionary.
 
@@ -27,6 +27,25 @@ difficulty_dic - object difficulty level dictionary.
 /.*pcd - point cloud of each objects in the cluttered enviroments.
 
 stage_0.usd - cluttered environments usd file.
+
+
+## Examples stage grasps visualization 
+
+We provide visualization tool to see example suction and parallel jaw gripper grasp labels in folder:
+
+Prerequisite: ```open3d```
+
+Visualize stage and suction grasp labels: ```view_suction.py ```
+
+Visualize stage and parallel jaw grasp labels: ```view_parallel_jaw.py ```
+
+
+
+
+
+## label details
+
+
 
 (1.5 cm suction cup gripper) stage_0_candidates_after_seal.pkl 
 ```
