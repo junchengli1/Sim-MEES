@@ -1,6 +1,6 @@
 # Sim-MEES: Modular End-Effector System Grasping Dataset for Mobile Manipulators in Cluttered Environments
 ## This is the sample dataset part for our paper: [Sim-MEES](https://drive.google.com/drive/folders/1CsWiaqe5LZzFyYPZLGWx-tOw7704hXul?usp=share_link)
-## :rocket::rocket::rocket::rocket::rocket: Sim-Suction: Learning a Suction Grasp Policy for Cluttered Environments Using a Synthetic Benchmark (https://junchengli1.github.io/Sim-Suction/)
+## :rocket::rocket: New Work :rocket::rocket: Sim-Suction: Learning a Suction Grasp Policy for Cluttered Environments Using a Synthetic Benchmark (https://junchengli1.github.io/Sim-Suction/)
 
 seg_dic - object segmentation dictionary.
 
